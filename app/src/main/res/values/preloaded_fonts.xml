@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/arima_madurai_extrabold</item>
+        <item>@font/cabin_medium_italic</item>
+        <item>@font/charm_bold</item>
+        <item>@font/libre_caslon_text</item>
+        <item>@font/libre_caslon_text_bold</item>
+        <item>@font/salsa</item>
+        <item>@font/sansita_bold</item>
+        <item>@font/sansita_italic</item>
+    </array>
+</resources>
